@@ -10,5 +10,5 @@ games = {
     "9": ("Hell let loose", "https://drive.google.com/uc?export=download&id=1LzornCLgO6Idb2NglwmgWN4WMJ22m6V9", "online"),
     "10": ("FiveM", "https://drive.google.com/uc?export=download&id=1OKO_OPoe9L3YVQenUT53Ut7MlAcF-7Bh", "online"),
     "11": ("Spoofer", "https://drive.google.com/uc?export=download&id=1iBTATrKRAzDVxvRDcnOYnXl4p5TLL_Cn", "online"),
-    "12": ("By-Pass TPM", "https://drive.google.com/uc?export=download&id=1e0xRL9bZrav6MaBHnf8cpBJ_XbVJlPo7", "online"),
+    "12": ("By-Pass TPM", "https://drive.google.com/uc?export=download&id=1e0xRL9bZrav6MaBHnf8cpBJ_XbVJlPo7", "offline"),
 }
