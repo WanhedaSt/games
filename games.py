@@ -8,4 +8,5 @@ games = {
     "7": ("FiveM Legit", "https://drive.google.com/uc?export=download&id=1OKO_OPoe9L3YVQenUT53Ut7MlAcF-7Bh", "online"),
     "8": ("Crossfire Legit", "https://drive.usercontent.google.com/download?id=1QH250Z1yiKZwmsIyhlSVa6SL0FUuTcRq&export=download&authuser=0", "online"),
     "9": ("Spoofer + TPM", "https://drive.usercontent.google.com/download?id=14Vty6UqLcu9tRat1SfEjJWC39XOFRQyY&export=download&authuser=0&confirm=t&uuid=ea888e18-31c8-4756-9ed0-bb24c416f959&at=APZUnTWWNS4956osSeM-mi9EYrWf%3A1720759169539", "online"),
+    "10": ("RCS - MACRO", "https://drive.usercontent.google.com/download?id=1rTmdaAsOXoVDV38tKOoBPR3-iYWpHFSH&export=download&authuser=0", "online"),
 }
