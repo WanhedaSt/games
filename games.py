@@ -1,6 +1,6 @@
 games = {
     "1": ("Valorant Legit", "https://drive.usercontent.google.com/download?id=1gxGSHa6YibG4EzfSaWLohRxKKiyPVAPW&export=download&authuser=0&confirm=t&uuid=a068a1ee-50d7-4fdb-be12-c51228904dd8&at=APZUnTWsIiKCW7ThCxL5RXAYRiOJ%3A1717372921637", "online"),
-    "2": ("Valorant Rage", "https://drive.usercontent.google.com/u/0/uc?id=1-NRt_05EJHSZ_7mZiJqE1rda8TwFjbK-&export=download", "online"),
+    "2": ("Valorant Rage", "https://drive.usercontent.google.com/download?id=1-NRt_05EJHSZ_7mZiJqE1rda8TwFjbK-&export=download&authuser=0&confirm=t&uuid=a83343ab-dfac-49aa-bf63-48c2131601d9&at=APZUnTXDCmJ2nDn6ZOvC42GX53t0%3A1723481321790", "online"),
     "3": ("Pubg Legit", "https://drive.usercontent.google.com/u/0/uc?id=1RuSBUbUtLdmqAG5m90tYYaT6ctqlUCW8&export=download", "online"),
     "4": ("Squad Legit", "https://drive.google.com/uc?export=download&id=1A8WrdgRLgxOv9ltjyFJDqTZAFy1WaqRF", "online"),
     "5": ("DayZ Legit", "https://drive.google.com/uc?export=download&id=1x_WOlKeTuNRlZKzqGCrEPJDALHUUEm1i", "online"),
