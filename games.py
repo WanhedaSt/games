@@ -7,5 +7,7 @@ games = {
     "6": ("DayZ Legit", "https://drive.usercontent.google.com/download?id=1x_WOlKeTuNRlZKzqGCrEPJDALHUUEm1i&export=download&authuser=0&confirm=t&uuid=1103d68c-4389-4d79-bc4d-9bd5d809e3e5&at=AO7h07ePg_J7wqcFUUGl50DjDVUL%3A1724374384535", "online"),
     "7": ("FiveM Legit", "https://drive.usercontent.google.com/download?id=1OKO_OPoe9L3YVQenUT53Ut7MlAcF-7Bh&export=download&authuser=0&confirm=t&uuid=d56fc74a-bfa9-476e-87b8-520922918afb&at=APZUnTWWRhHLTjN8GAQnnkE-pd2h%3A1723483652664", "online"),
     "8": ("Arena Legit", "https://drive.usercontent.google.com/download?id=1nbnsGVexes4TdRBUOeyBqp_eeOLhddOa&export=download&authuser=0&confirm=t&uuid=87b08967-b7e3-48dd-9c62-e38940b06675&at=AO7h07fQSSwSkmDiufJLxnUKbx2-%3A1724640508875", "online"),
-    "9": ("Spoofer + TPM", "https://drive.usercontent.google.com/download?id=14Vty6UqLcu9tRat1SfEjJWC39XOFRQyY&export=download&authuser=0&confirm=t&uuid=ea888e18-31c8-4756-9ed0-bb24c416f959&at=APZUnTWWNS4956osSeM-mi9EYrWf%3A1720759169539", "online"),
+    "9": ("Apex Legit", "https://drive.usercontent.google.com/download?id=1BvIRIIYZ4cSv5SY1dSLf2Zvo8JHwE7aD&export=download&authuser=0&confirm=t&uuid=7668b5db-ee57-4916-a1a2-d5a9d89a5bb8&at=AO7h07ft8TLvfl_evVuqLmYQShJg%3A1725854479120", "online"),
+    "10": ("Cs:2 Legit", "https://drive.usercontent.google.com/download?id=1250Zfbd2PBN_I3uY3wBDaR9mz1OmUTb1&export=download&authuser=0&confirm=t&uuid=759ef15c-14d0-42d2-8e7a-604d1b0618c9&at=AO7h07faGEC9beCfQvWt5W-cWBKi%3A1725854449676", "online"),
+    "11": ("Spoofer + TPM", "https://drive.usercontent.google.com/download?id=14Vty6UqLcu9tRat1SfEjJWC39XOFRQyY&export=download&authuser=0&confirm=t&uuid=ea888e18-31c8-4756-9ed0-bb24c416f959&at=APZUnTWWNS4956osSeM-mi9EYrWf%3A1720759169539", "online"),
 }
