@@ -7,6 +7,6 @@ games = {
     "6": ("FiveM Legit", "https://drive.usercontent.google.com/download?id=1OKO_OPoe9L3YVQenUT53Ut7MlAcF-7Bh&export=download&authuser=0&confirm=t&uuid=d56fc74a-bfa9-476e-87b8-520922918afb&at=APZUnTWWRhHLTjN8GAQnnkE-pd2h%3A1723483652664", "online"),
     "7": ("Arena Legit", "https://drive.usercontent.google.com/download?id=1nbnsGVexes4TdRBUOeyBqp_eeOLhddOa&export=download&authuser=0&confirm=t&uuid=87b08967-b7e3-48dd-9c62-e38940b06675&at=AO7h07fQSSwSkmDiufJLxnUKbx2-%3A1724640508875", "online"),
     "8": ("Apex Legit", "https://drive.usercontent.google.com/download?id=1BvIRIIYZ4cSv5SY1dSLf2Zvo8JHwE7aD&export=download&authuser=0&confirm=t&uuid=7668b5db-ee57-4916-a1a2-d5a9d89a5bb8&at=AO7h07ft8TLvfl_evVuqLmYQShJg%3A1725854479120", "online"),
-    "9": ("Cs:2 Legit", "https://drive.usercontent.google.com/download?id=1250Zfbd2PBN_I3uY3wBDaR9mz1OmUTb1&export=download&authuser=0&confirm=t&uuid=759ef15c-14d0-42d2-8e7a-604d1b0618c9&at=AO7h07faGEC9beCfQvWt5W-cWBKi%3A1725854449676", "online"),
+    "9": ("Cs:2 Legit", "https://drive.usercontent.google.com/download?id=1250Zfbd2PBN_I3uY3wBDaR9mz1OmUTb1&export=download&authuser=0&confirm=t&uuid=759ef15c-14d0-42d2-8e7a-604d1b0618c9&at=AO7h07eBUV6nqawFOOtcEsIgpkfH%3A1726225019582", "online"),
     "10": ("Spoofer + TPM", "https://drive.usercontent.google.com/download?id=1wxCobK0DEZfzGMhyCdQEgLq2bEEHPBlV&export=download&authuser=0&confirm=t&uuid=803ffbcc-eed5-4c71-bf47-e3012b511b42&at=AO7h07fo5WG6h6blIQbzUHndy6S6%3A1725941655641", "online"),
 }
