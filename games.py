@@ -7,6 +7,6 @@ games = {
     "6": ("Apex External", "https://drive.usercontent.google.com/download?id=1BvIRIIYZ4cSv5SY1dSLf2Zvo8JHwE7aD&export=download&authuser=0&confirm=t&uuid=7668b5db-ee57-4916-a1a2-d5a9d89a5bb8&at=AO7h07ft8TLvfl_evVuqLmYQShJg%3A1725854479120", "online"),
     "7": ("Cs:2 External", "https://drive.usercontent.google.com/download?id=1250Zfbd2PBN_I3uY3wBDaR9mz1OmUTb1&export=download&authuser=0&confirm=t&uuid=5b02a207-800b-4952-9319-14a45caa11d0&at=AO7h07flcAl3-RD2nzphMnscWoj6%3A1726521902359", "online"),
     "8": ("Spectre Divide - Aim", "https://drive.usercontent.google.com/download?id=1V7QI57J5LugjVznlopJpRh1u4JYAvI6V&export=download&authuser=0&confirm=t&uuid=5bac8e5d-e0e1-43f2-a97c-30ee8bb0e470&at=AO7h07f92cWH6DJTsLPlTXQ6WDB3%3A1726521823848", "online"),
-    "9": ("Spectre Divide - Esp+Aim", "https://drive.usercontent.google.com/download?id=1rcdrMDg22l7_zW5cVhFzL5cTt8M5B9G-&export=download&authuser=0&confirm=t&uuid=95668537-fb74-4857-8819-00776955c2bb&at=AO7h07d818149jQIBEVhIQrh1bhu%3A1726521858610", "online"),
+    "9": ("Spectre Divide - Esp+Aim", "https://drive.usercontent.google.com/download?id=1rcdrMDg22l7_zW5cVhFzL5cTt8M5B9G-&export=download&authuser=0&confirm=t&uuid=95668537-fb74-4857-8819-00776955c2bb&at=AO7h07d818149jQIBEVhIQrh1bhu%3A1726521858610", "offline"),
     "10": ("Spoofer + TPM", "https://drive.usercontent.google.com/download?id=1wxCobK0DEZfzGMhyCdQEgLq2bEEHPBlV&export=download&authuser=0&confirm=t&uuid=c977b756-b0f5-4c0f-8c09-dc23b2970b8f&at=AO7h07fHWCz-MIDlyPoh8-1pAub2%3A1726523429569", "online"),
 }
