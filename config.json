@@ -1,57 +1,56 @@
 {
   "loader": {
-    "name": "Future",
+    "name": "FUTURE | LOADER",
     "version": "2.0.0",
     "subtitle": "VIP VERSION",
-    "style": {
+    "theme": {
       "primary_color": "#800080",
-      "console_width": 56,
-      "console_height": 25
+      "success_color": "green",
+      "error_color": "red",
+      "text_color": "white"
     }
   },
   "categories": {
-    "Cheat": {
-      "CS2": {
-        "name": "CS2 Cheat",
-        "url": "https://example.com/cs2-cheat.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      },
-      "Valorant": {
-        "name": "Valorant Cheat",
-        "url": "https://example.com/valorant-cheat.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      },
-      "FiveM": {
-        "name": "FiveM Cheat",
-        "url": "https://example.com/fivem-cheat.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      }
+    "cheats": {
+      "fps": [
+        {
+          "name": "Valorant",
+          "id": "val",
+          "status": "online",
+          "version": "1.0.0",
+          "url": "https://example.com/valorant.zip",
+          "password": "123"
+        }
+      ],
+      "mmo": [
+        {
+          "name": "World of Warcraft",
+          "id": "wow",
+          "status": "offline",
+          "version": "2.1.0",
+          "url": "https://example.com/wow.zip",
+          "password": "123"
+        }
+      ]
     },
-    "Spoofer": {
-      "Hardware": {
-        "name": "Hardware Spoofer",
-        "url": "https://example.com/hw-spoofer.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      },
-      "HWID": {
+    "spoofers": [
+      {
         "name": "HWID Spoofer",
-        "url": "https://example.com/hwid-spoofer.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
+        "id": "hwid",
+        "status": "online",
+        "version": "1.5.0",
+        "url": "https://example.com/hwid.zip",
+        "password": "123"
       }
-    }
+    ]
+  },
+  "webhook": {
+    "url": "https://discordapp.com/api/webhooks/1309978319676113007/4Llv3CkaSN9MTQPPFWbYSTLqp1dz_6kN8UbaINN3XoTHre283DdlkQ5c967X-WXQAhWK",
+    "enabled": true
   },
   "security": {
-    "extraction_password": "123",
-    "webhook_url": "https://discordapp.com/api/webhooks/your-webhook-url"
+    "require_tpm": false,
+    "require_secure_boot": false,
+    "max_attempts": 3
   }
 }
