@@ -1,46 +1,55 @@
 {
   "loader": {
-      "name": "FUTURE",
-      "version": "2.0.0",
-      "subtitle": "VIP VERSION",
-      "style": {
-          "primary_color": "#800080",
-          "secondary_color": "#4B0082",
-          "success_color": "#008000",
-          "error_color": "#FF0000",
-          "console": {
-              "width": 80,
-              "height": 30,
-              "title_update_interval": 0.5
-          },
-          "ui": {
-              "table_style": "rounded",
-              "header_style": "bold magenta",
-              "id_column_style": "cyan",
-              "name_column_style": "white",
-              "version_column_style": "green",
-              "status_column_style": "bold"
-          }
-      }
-  },
-  "security": {
-      "extraction_password": "123",
-      "webhook_url": "your-webhook-url",
-      "download_timeout": 30,
-      "max_retries": 3,
-      "retry_delay": 5
+    "name": "Future",
+    "subtitle": "VIP VERSION",
+    "color": "#800080"
   },
   "categories": {
-      "Cheats": {
-          "CS2": {
-              "Basic": {
-                  "name": "CS2 Basic Cheat",
-                  "version": "1.0.0",
-                  "status": "online",
-                  "requires_password": true,
-                  "url": "https://example.com/cs2-basic.zip"
-              }
+    "Cheat": {
+      "CS2": {
+        "description": "CS2 Cheats",
+        "items": [
+          {
+            "name": "CS2 Cheat",
+            "url": "https://example.com/cs2.zip",
+            "password_required": true,
+            "password": "123"
           }
+        ]
+      },
+      "Valorant": {
+        "description": "Valorant Cheats",
+        "items": [
+          {
+            "name": "Valorant Cheat",
+            "url": "https://example.com/valorant.zip",
+            "password_required": false
+          }
+        ]
+      },
+      "FiveM": {
+        "description": "FiveM Cheats",
+        "items": [
+          {
+            "name": "FiveM Cheat",
+            "url": "https://example.com/fivem.zip",
+            "password_required": true,
+            "password": "123"
+          }
+        ]
       }
+    },
+    "Spoofer": {
+      "Basic Spoofer": {
+        "description": "Basic Spoofer",
+        "items": [
+          {
+            "name": "Basic Spoofer Tool",
+            "url": "https://example.com/spoofer.zip",
+            "password_required": false
+          }
+        ]
+      }
+    }
   }
 }
