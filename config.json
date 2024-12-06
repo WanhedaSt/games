@@ -1,57 +1,46 @@
 {
   "loader": {
-    "name": "Future",
-    "version": "2.0.0",
-    "subtitle": "VIP VERSION",
-    "style": {
-      "primary_color": "#800080",
-      "console_width": 56,
-      "console_height": 25
-    }
-  },
-  "categories": {
-    "Cheat": {
-      "CS2": {
-        "name": "CS2 Cheat",
-        "url": "https://example.com/cs2-cheat.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      },
-      "Valorant": {
-        "name": "Valorant Cheat",
-        "url": "https://example.com/valorant-cheat.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      },
-      "FiveM": {
-        "name": "FiveM Cheat",
-        "url": "https://example.com/fivem-cheat.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
+      "name": "FUTURE",
+      "version": "2.0.0",
+      "subtitle": "VIP VERSION",
+      "style": {
+          "primary_color": "#800080",
+          "secondary_color": "#4B0082",
+          "success_color": "#008000",
+          "error_color": "#FF0000",
+          "console": {
+              "width": 80,
+              "height": 30,
+              "title_update_interval": 0.5
+          },
+          "ui": {
+              "table_style": "rounded",
+              "header_style": "bold magenta",
+              "id_column_style": "cyan",
+              "name_column_style": "white",
+              "version_column_style": "green",
+              "status_column_style": "bold"
+          }
       }
-    },
-    "Spoofer": {
-      "Hardware": {
-        "name": "Hardware Spoofer",
-        "url": "https://example.com/hw-spoofer.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      },
-      "HWID": {
-        "name": "HWID Spoofer",
-        "url": "https://example.com/hwid-spoofer.zip",
-        "version": "1.0.0",
-        "requires_password": true,
-        "status": "online"
-      }
-    }
   },
   "security": {
-    "extraction_password": "123",
-    "webhook_url": "https://discordapp.com/api/webhooks/your-webhook-url"
+      "extraction_password": "123",
+      "webhook_url": "your-webhook-url",
+      "download_timeout": 30,
+      "max_retries": 3,
+      "retry_delay": 5
+  },
+  "categories": {
+      "Cheats": {
+          "CS2": {
+              "Basic": {
+                  "name": "CS2 Basic Cheat",
+                  "version": "1.0.0",
+                  "status": "online",
+                  "requires_password": true,
+                  "url": "https://example.com/cs2-basic.zip"
+              }
+          }
+      }
   }
 }
