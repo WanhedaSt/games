@@ -1,80 +1,57 @@
 {
   "loader": {
     "name": "Future",
+    "version": "2.0.0",
     "subtitle": "VIP VERSION",
-    "color": "#800080"
+    "style": {
+      "primary_color": "#800080",
+      "console_width": 56,
+      "console_height": 25
+    }
   },
   "categories": {
     "Cheat": {
       "CS2": {
-        "description": "CS2 Cheats for Counter-Strike 2",
-        "items": [
-          {
-            "name": "CS2 Aimbot",
-            "url": "https://example.com/cs2-aimbot.zip",
-            "password_required": true,
-            "password": "123"
-          },
-          {
-            "name": "CS2 Wallhack",
-            "url": "https://example.com/cs2-wallhack.zip",
-            "password_required": false
-          }
-        ]
+        "name": "CS2 Cheat",
+        "url": "https://example.com/cs2-cheat.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
       },
       "Valorant": {
-        "description": "Valorant Cheats for gameplay manipulation",
-        "items": [
-          {
-            "name": "Valorant Aimbot",
-            "url": "https://example.com/valorant-aimbot.zip",
-            "password_required": true,
-            "password": "123"
-          },
-          {
-            "name": "Valorant Triggerbot",
-            "url": "https://example.com/valorant-triggerbot.zip",
-            "password_required": false
-          }
-        ]
+        "name": "Valorant Cheat",
+        "url": "https://example.com/valorant-cheat.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
       },
       "FiveM": {
-        "description": "FiveM Cheats for custom GTA servers",
-        "items": [
-          {
-            "name": "FiveM ESP",
-            "url": "https://example.com/fivem-esp.zip",
-            "password_required": false
-          },
-          {
-            "name": "FiveM Godmode",
-            "url": "https://example.com/fivem-godmode.zip",
-            "password_required": false
-          }
-        ]
+        "name": "FiveM Cheat",
+        "url": "https://example.com/fivem-cheat.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
       }
     },
     "Spoofer": {
-      "Basic Spoofer": {
-        "description": "Basic system spoofer for security",
-        "items": [
-          {
-            "name": "System Spoofer Tool",
-            "url": "https://example.com/system-spoofer.zip",
-            "password_required": false
-          }
-        ]
+      "Hardware": {
+        "name": "Hardware Spoofer",
+        "url": "https://example.com/hw-spoofer.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
       },
-      "Advanced Spoofer": {
-        "description": "Advanced spoofing for system protection",
-        "items": [
-          {
-            "name": "Advanced Spoofer",
-            "url": "https://example.com/advanced-spoofer.zip",
-            "password_required": false
-          }
-        ]
+      "HWID": {
+        "name": "HWID Spoofer",
+        "url": "https://example.com/hwid-spoofer.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
       }
     }
+  },
+  "security": {
+    "extraction_password": "123",
+    "webhook_url": "https://discordapp.com/api/webhooks/your-webhook-url"
   }
 }
