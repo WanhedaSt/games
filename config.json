@@ -1,0 +1,57 @@
+{
+  "loader": {
+    "name": "Future",
+    "version": "2.0.0",
+    "subtitle": "VIP VERSION",
+    "style": {
+      "primary_color": "#800080",
+      "console_width": 56,
+      "console_height": 25
+    }
+  },
+  "categories": {
+    "Cheat": {
+      "CS2": {
+        "name": "CS2 Cheat",
+        "url": "https://example.com/cs2-cheat.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
+      },
+      "Valorant": {
+        "name": "Valorant Cheat",
+        "url": "https://example.com/valorant-cheat.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
+      },
+      "FiveM": {
+        "name": "FiveM Cheat",
+        "url": "https://example.com/fivem-cheat.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
+      }
+    },
+    "Spoofer": {
+      "Hardware": {
+        "name": "Hardware Spoofer",
+        "url": "https://example.com/hw-spoofer.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
+      },
+      "HWID": {
+        "name": "HWID Spoofer",
+        "url": "https://example.com/hwid-spoofer.zip",
+        "version": "1.0.0",
+        "requires_password": true,
+        "status": "online"
+      }
+    }
+  },
+  "security": {
+    "extraction_password": "123",
+    "webhook_url": "https://discordapp.com/api/webhooks/your-webhook-url"
+  }
+}
