@@ -1,6 +1,6 @@
 {
   "loader": {
-    "name": "FUTURE | LOADER",
+    "name": "A PORRA DO LOADER",
     "version": "2.0.0",
     "subtitle": "VIP VERSION",
     "theme": {
@@ -12,7 +12,27 @@
   },
   "categories": {
     "cheats": {
-      "fps": [
+      "valorant": [
+        {
+          "name": "Valorant",
+          "id": "val",
+          "status": "online",
+          "version": "1.0.0",
+          "url": "https://example.com/valorant.zip",
+          "password": "123"
+        }
+      ],
+      "cs": [
+        {
+          "name": "Valorant",
+          "id": "val",
+          "status": "online",
+          "version": "1.0.0",
+          "url": "https://example.com/valorant.zip",
+          "password": "123"
+        }
+      ],
+      "fivem": [
         {
           "name": "Valorant",
           "id": "val",
