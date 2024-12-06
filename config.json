@@ -1,6 +1,6 @@
 {
   "loader": {
-    "name": "A PORRA DO LOADER",
+    "name": "FUTURE | LOADER",
     "version": "2.0.0",
     "subtitle": "VIP VERSION",
     "theme": {
@@ -11,8 +11,8 @@
     }
   },
   "categories": {
-    "cheats": {
-      "valorant": [
+    "CHEATS": {
+      "VALORANT": [
         {
           "name": "Valorant",
           "id": "val",
@@ -22,7 +22,7 @@
           "password": "123"
         }
       ],
-      "cs": [
+      "CS": [
         {
           "name": "Valorant",
           "id": "val",
@@ -32,35 +32,25 @@
           "password": "123"
         }
       ],
-      "fivem": [
+      "FIVEM": [
         {
-          "name": "Valorant",
+          "name": "CTX",
           "id": "val",
           "status": "online",
           "version": "1.0.0",
           "url": "https://example.com/valorant.zip",
-          "password": "123"
-        }
-      ],
-      "mmo": [
-        {
-          "name": "World of Warcraft",
-          "id": "wow",
-          "status": "offline",
-          "version": "2.1.0",
-          "url": "https://example.com/wow.zip",
           "password": "123"
         }
       ]
     },
-    "spoofers": [
+    "SPOOFERS": [
       {
-        "name": "HWID Spoofer",
+        "name": "Kernel Spoofer",
         "id": "hwid",
         "status": "online",
         "version": "1.5.0",
         "url": "https://example.com/hwid.zip",
-        "password": "123"
+        "password": ""
       }
     ]
   },
