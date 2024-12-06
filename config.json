@@ -7,45 +7,70 @@
   "categories": {
     "Cheat": {
       "CS2": {
-        "description": "CS2 Cheats",
+        "description": "CS2 Cheats for Counter-Strike 2",
         "items": [
           {
-            "name": "CS2 Cheat",
-            "url": "https://example.com/cs2.zip",
+            "name": "CS2 Aimbot",
+            "url": "https://example.com/cs2-aimbot.zip",
             "password_required": true,
             "password": "123"
+          },
+          {
+            "name": "CS2 Wallhack",
+            "url": "https://example.com/cs2-wallhack.zip",
+            "password_required": false
           }
         ]
       },
       "Valorant": {
-        "description": "Valorant Cheats",
+        "description": "Valorant Cheats for gameplay manipulation",
         "items": [
           {
-            "name": "Valorant Cheat",
-            "url": "https://example.com/valorant.zip",
+            "name": "Valorant Aimbot",
+            "url": "https://example.com/valorant-aimbot.zip",
+            "password_required": true,
+            "password": "123"
+          },
+          {
+            "name": "Valorant Triggerbot",
+            "url": "https://example.com/valorant-triggerbot.zip",
             "password_required": false
           }
         ]
       },
       "FiveM": {
-        "description": "FiveM Cheats",
+        "description": "FiveM Cheats for custom GTA servers",
         "items": [
           {
-            "name": "FiveM Cheat",
-            "url": "https://example.com/fivem.zip",
-            "password_required": true,
-            "password": "123"
+            "name": "FiveM ESP",
+            "url": "https://example.com/fivem-esp.zip",
+            "password_required": false
+          },
+          {
+            "name": "FiveM Godmode",
+            "url": "https://example.com/fivem-godmode.zip",
+            "password_required": false
           }
         ]
       }
     },
     "Spoofer": {
       "Basic Spoofer": {
-        "description": "Basic Spoofer",
+        "description": "Basic system spoofer for security",
         "items": [
           {
-            "name": "Basic Spoofer Tool",
-            "url": "https://example.com/spoofer.zip",
+            "name": "System Spoofer Tool",
+            "url": "https://example.com/system-spoofer.zip",
+            "password_required": false
+          }
+        ]
+      },
+      "Advanced Spoofer": {
+        "description": "Advanced spoofing for system protection",
+        "items": [
+          {
+            "name": "Advanced Spoofer",
+            "url": "https://example.com/advanced-spoofer.zip",
             "password_required": false
           }
         ]
