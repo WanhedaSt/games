@@ -1,13 +1,27 @@
-games = {
-    "1": ("Valorant - Private", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.2.7"),
-    "2": ("Valorant - Premium", "https://cdn.discordapp.com/attachments/1272343619776282650/1310249166001279006/Valorant-ColorBot.vmp.exe?ex=6753b160&is=67525fe0&hm=6eea35003f071c7f2569bbcbfa97d6e07944ba411cee5ffa427aa14810a671c6&", "online", "6.6.5"),
-    "3": ("Valorant - SkinChanger", "https://cdn.discordapp.com/attachments/1309294418271932456/1314436562880172082/SKIN_CHANGER_NEW.zip?ex=6753c3f1&is=67527271&hm=ebf40dbca5be653a375af76379152a2ab97952ae7c591e811234b90ecbb8e447&", "online", "6.4.3"),
-    "4": ("FiveM - Astra", "https://drive.usercontent.google.com/download?id=1OKO_OPoe9L3YVQenUT53Ut7MlAcF-7Bh&export=download&authuser=0&confirm=t&uuid=d56fc74a-bfa9-476e-87b8-520922918afb&at=APZUnTWWRhHLTjN8GAQnnkE-pd2h%3A1723483652664", "online", "6.1.8"),
-    "5": ("Fivem - Pvp", "https://cdn.discordapp.com/attachments/1272343619776282650/1310248483848196136/Fivem-External.exe?ex=6753b0bd&is=67525f3d&hm=efa458bb84dd4ddf98144b3b1f134ec9dc1a31af68f1213eaf6be3f740db9506&", "online", "6.2.7"),
-    "6": ("Pubg - Esp+Aim", "https://drive.usercontent.google.com/download?id=1fAI5T2yadeKpCe_rPnf2KFkm2jYNpq1q&export=download&authuser=0&confirm=t&uuid=e3a99e11-73ec-4334-b7c1-26b88a82e676&at=AO7h07f7bKnqeNndMqpvyCBIRSYH%3A1727139311235", "online", "6.1.7"),
-    "7": ("Apex - Esp+Aim", "https://drive.usercontent.google.com/download?id=1DjkFEYFrHNU3HlzbWRegEgMvNwcwxmsp&export=download&authuser=0&confirm=t&uuid=57b1c87b-c3ac-45bb-b8c8-3abc397122f8&at=AENtkXbFTYbl6nWY7CX7B2X-154Y%3A1733030671684", "online", "6.0.2"),
-    "8": ("Fortnite - Esp+Aim", "https://drive.usercontent.google.com/download?id=1DjkFEYFrHNU3HlzbWRegEgMvNwcwxmsp&export=download&authuser=0&confirm=t&uuid=57b1c87b-c3ac-45bb-b8c8-3abc397122f8&at=AENtkXbFTYbl6nWY7CX7B2X-154Y%3A1733030671684", "online", "6.0.2"),
-    "9": ("Cs2 - Esp+Aim", "https://drive.usercontent.google.com/download?id=1DjkFEYFrHNU3HlzbWRegEgMvNwcwxmsp&export=download&authuser=0&confirm=t&uuid=57b1c87b-c3ac-45bb-b8c8-3abc397122f8&at=AENtkXbFTYbl6nWY7CX7B2X-154Y%3A1733030671684", "online", "6.0.2"),
-    "10": ("Kernel - Spoofer", "https://cdn.discordapp.com/attachments/1262331745752318016/1312279571202314261/Kernel_Spoofer.rar?ex=6753d416&is=67528296&hm=7ec15ec5fa332b328306a3c263decedb6d7a0510329b19c3ca94b2fc8b9f0c92&", "online", "6.0.2"),
-    "11": ("OneClick - Spoofer", "https://cdn.discordapp.com/attachments/1311056224002900059/1312887759022854194/OneDollar_GENERIC.exe?ex=67536782&is=67521602&hm=49bdcda5f90673937f8909fa2f856ece35d265bd1dcfba6fad5a101c311ab054&", "online", "6.0.2")
+# Configurações do Loader
+title = "Future Loader"
+subtitle = "Escolha a categoria desejada"
+color = "cyan"
+
+# Estrutura das categorias e itens
+categories = {
+    "Cheat": {
+        "Valorant": [
+            {"name": "Valorant Aim", "url": "https://link_para_valorant_aim.zip", "password_protected": True},
+            {"name": "Valorant SkinChanger", "url": "https://link_para_valorant_skinchanger.zip", "password_protected": False},
+            {"name": "Valorant ESP", "url": "https://link_para_valorant_esp.zip", "password_protected": True}
+        ],
+        "FiveM": [
+            {"name": "FiveM Astra", "url": "https://link_para_fivem_astra.zip", "password_protected": False},
+            {"name": "FiveM PVP", "url": "https://link_para_fivem_pvp.zip", "password_protected": True}
+        ]
+    },
+    "Spoofer": {
+        "Kernel": [
+            {"name": "Kernel Spoofer", "url": "https://link_para_kernel_spoofer.zip", "password_protected": True}
+        ],
+        "OneClick": [
+            {"name": "OneClick Spoofer", "url": "https://link_para_oneclick_spoofer.zip", "password_protected": False}
+        ]
+    }
 }
